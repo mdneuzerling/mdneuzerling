@@ -2,6 +2,8 @@
 
 I'm David, a Data Scientist in Melbourne, Australia. I use R and Python daily, and I also like to use a bit of Julia here and there. Talk to me about Data Science and R engineering.
 
+In my spare time I explore machine learning practices and technology on my blog, [mdneuzerling.com](https://mdneuzerling.com/).
+
 ### R packages
 
 <a href="https://lambdr.mdneuzerling.com/">
@@ -10,8 +12,6 @@ I'm David, a Data Scientist in Melbourne, Australia. I use R and Python daily, a
 <a href="https://ptvapi.mdneuzerling.com/">
 <img src="https://raw.githubusercontent.com/mdneuzerling/ptvapi/main/man/figures/ptvapi.png" height="200" />
 </a>
-
-
 
 I have a corgi named Parsnip, and he's the most perfect dog in the entire world:
 
